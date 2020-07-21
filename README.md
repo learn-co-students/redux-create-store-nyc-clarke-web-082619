@@ -323,7 +323,7 @@ reducer that we passed through when creating the store.
 
 With this set up, we've got a fully functional `store`, that encapsulates our
 state and provides a controlled way to write (`dispatch`) and retrieve
-(`getState`) information.  
+(`getState`) information .  
 
 Every piece of code that would be common to any JavaScript application following
 this pattern is wrapped inside of the `createStore` function. Any code that is
